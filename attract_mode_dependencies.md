@@ -1,6 +1,6 @@
 1. Install build tools
 ```
-sudo apt-get install build-essentials
+sudo apt-get install build-essential
 sudo apt-get install pkg-config
 ```
 
