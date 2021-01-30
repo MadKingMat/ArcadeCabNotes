@@ -31,12 +31,11 @@ FullScreen = 0
 
 If the application file was created in the BIN directory. Move it to ~/model3emu-code root folder.
 
-Run the emulator pointing to the rom.zip path
+Run the emulator pointing to the rom.zip path and setting resolution.
 cd ~/model3emu-code/
-./supermodel ~/Roms/srally2.zip
+./supermodel ./Roms/daytona2.zip -res=800,600 -show-fps -quad-rendering -wide-screen
 
-Run the emulator setting resolutions
-./supermodel -res=800,600 ~/Roms/srally2.zip
+
 
 If you have the Nvidia Optimus Driver installed, use the optirun command:
 optirun ./supermodel ~/Roms/srally2.zip
