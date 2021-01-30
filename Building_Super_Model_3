@@ -1,0 +1,55 @@
+Install Dependencies
+
+sudo apt install subversion build-essential libsdl1.2-dev libglew2.0 zlib1g-dev
+
+Installaton
+
+svn checkout svn://svn.code.sf.net/p/model3emu/code/trunk model3emu-code
+cd model3emu-code
+ln -s Makefiles/Makefile.UNIX Makefile
+make
+cd bin
+mkdir Config NVRAM Saves
+cp ../Config/Supermodel.ini Config
+cp ../Config/Games.xml Config
+
+Configuration
+
+Edit the Supermodel.ini file and at the end of the line add the resolution you want and enable FullScreen = 1
+
+nano ~/model3emu-code/bin/Config/Supermodel.ini
+
+XResolution = 640
+YResolution = 480
+FullScreen = 1
+
+or Disable FullScreen = 0
+
+XResolution = 640
+YResolution = 480
+FullScreen = 0
+
+If the application file was created in the BIN directory. Move it to ~/model3emu-code root folder.
+
+Run the emulator pointing to the rom.zip path
+cd ~/model3emu-code/
+./supermodel ~/Roms/srally2.zip
+
+Run the emulator setting resolutions
+./supermodel -res=800,600 ~/Roms/srally2.zip
+
+If you have the Nvidia Optimus Driver installed, use the optirun command:
+optirun ./supermodel ~/Roms/srally2.zip
+
+For more details see ~ / model3emu-code / Docs / README.txt
+Note: The antimicro program (keymapper) works very well with the supermodel3 emulator.
+
+Roms:
+
+http://www.gametronik.com/site/emulation/Supermodel/
+
+https://archive.org/details/spikeout_201812
+
+ 
+
+https://www.supermodel3.com/
