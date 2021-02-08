@@ -11,5 +11,5 @@ Websites / Forums
 * http://vpuniverse.com/
 * http://www.pinsimdb.org/ - future pinball tables
 * https://www.vpforums.org/
-https://www.nailbuster.com/wikipinup/doku.php - PinUp System Wiki , Terry Red's videos reference this place a lot
+* https://www.nailbuster.com/wikipinup/doku.php - PinUp System Wiki , Terry Red's videos reference this place a lot
 * https://www.vpwiki.net/Home
