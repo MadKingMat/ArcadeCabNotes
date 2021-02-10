@@ -80,7 +80,7 @@
 - [ ] Scooby Doo! and KISS Rock ‘n Roll Mystery (Original 2015)
 - [ ] Shrek (Stern 2008)
 - [ ] Silverball Mania (Bally 1980) 
-- [ ] South Park (Sega 1999)
+- [x] South Park (Sega 1999) **color rom**
 - [ ] Space Invaders (Bally 1980) 
 - [ ] Space Jam (Sega 1996) 
 - [ ] Space Mission (Williams 1976) 
