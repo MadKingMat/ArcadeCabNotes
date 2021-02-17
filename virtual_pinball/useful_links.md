@@ -1,5 +1,6 @@
 Facebook groups 
 * VP Nation
+* Virtual Pinball and VPin Cab Builders
 * Visual Pinball Addicts
 * Visual Pinball Junkies
 * PinUP Pinball System
@@ -7,6 +8,7 @@ Facebook groups
 
 
 Websites / Forums
+* https://pinballnirvana.com/ - Gottlieb Roms can be found here 
 * https://vpinball.com/
 * http://vpuniverse.com/
 * http://www.pinsimdb.org/ - future pinball tables
