@@ -106,7 +106,7 @@
 - [ ] Taxi (Williams 1988) 
 - [ ] Tee'd Off (Gottlieb 1993) 
 - [ ] Teenage Mutant Ninja Turtles (Data East 1991) 
-- [ ] Terminator 2 Judgment Day (Williams 1991) 
+- [x] Terminator 2 Judgment Day (Williams 1991) *G5k creator* 
 - [ ] Terminator 3 Rise of the Machines (Stern 2003) 
 - [ ] The Addams Family (Bally 1992) 
 - [ ] The Amazing Spider-Man (Gottlieb 1980)
