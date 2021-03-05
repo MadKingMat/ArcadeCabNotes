@@ -4,7 +4,7 @@ sudo apt-get update && sudo apt-get -y install git build-essential python libsdl
 ```
 
 
-2. Clone the repo
+2. Clone the repo, example shows Mame 0.228 (mame0228)
 ```
 git clone -b mame0228 --depth 1 https://github.com/mamedev/mame.git mame0228
 ```
