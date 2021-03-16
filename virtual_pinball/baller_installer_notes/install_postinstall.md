@@ -1,4 +1,4 @@
-1. Install to F:\games\vPinball
+1. Install with baller installer to F:\games\vPinball
 
 2. run c++ runtimes(install_all.bat) from https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/
 
