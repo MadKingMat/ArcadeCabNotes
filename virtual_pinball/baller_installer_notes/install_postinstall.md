@@ -25,3 +25,7 @@ End if
 ```
 PinEvent_Profile = 1		'Set what PinEvent Profile you wish to use with this table.
 ```
+
+7. Add Terry's Registry Settings from "STEP 5:    Install TerryRed’s default Future Pinball settings to the Registry (optional)" at https://vpinball.com/forums/topic/future-pinball-and-bam-mega-guide-by-terryred/
+
+- 
